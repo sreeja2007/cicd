@@ -7,6 +7,7 @@ app = Flask(__name__)
 def home():
     return {
         "message": "Hello from Flask on Render!"
+        "Varshini oru loosu"
     }
 
 
